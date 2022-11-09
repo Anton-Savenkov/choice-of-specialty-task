@@ -1,0 +1,15 @@
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/bin/Debug/net6.0/FinalTask
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/bin/Debug/net6.0/FinalTask.deps.json
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/bin/Debug/net6.0/FinalTask.runtimeconfig.json
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/bin/Debug/net6.0/FinalTask.dll
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/bin/Debug/net6.0/FinalTask.pdb
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/FinalTask.csproj.AssemblyReference.cache
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfoInputs.cache
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/FinalTask.AssemblyInfo.cs
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/FinalTask.csproj.CoreCompileInputs.cache
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/FinalTask.dll
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/refint/FinalTask.dll
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/FinalTask.pdb
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/FinalTask.genruntimeconfig.cache
+/Users/asave/DOK_i/Education/GB/FerstQuarter/choice of specialty/FinalTask/obj/Debug/net6.0/ref/FinalTask.dll

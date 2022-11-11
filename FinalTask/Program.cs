@@ -1,30 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
+﻿
 Console.WriteLine("Введите елементы строки через побел");
 string strigElemens = Console.ReadLine();
 string[] inputUserStrigArr = strigElemens.Split(new Char[] {' '});
+Console.WriteLine("Начальный массив: [" + string.Join(", ", inputUserStrigArr) + "]");
 
-for (int i = 0; i < inputUserStrigArr.Length; i++)
+void printElemrntsArray(string[] inputArray)
 {
-    Console.WriteLine(inputUserStrigArr[i]);
-}
-
-string[] resultArrayFull(string[] inputStrigArr)
-{
-    int arrayLeng = 0;
-    string[] resultArray = new string[arrayLeng];
-    for (int i = 0; i < inputStrigArr.Length; i++)
+    List<string> resultArray = new List<string>();
+    for (int i = 0; i < inputArray.Length; i++)
     {
-        if (inputStrigArr[i].Length < 3)
-        {
-            arrayLeng++;
-            resultArray[i] = inputStrigArr[i];
-            Console.WriteLine(resultArray[i]);
-        }
+       if(inputArray[i].Length < 3)
+       {
+            string temp = inputArray[i];
+            resultArray.Add(temp);
+       }
     }
-    return resultArray;
+    
+    Console.WriteLine("Итоговый массив: [" + string.Join(", ", resultArray) + "]");
 }
-resultArrayFull(inputUserStrigArr);
-string[] resultArray = resultArrayFull(inputUserStrigArr);
-
+printElemrntsArray(inputUserStrigArr);
